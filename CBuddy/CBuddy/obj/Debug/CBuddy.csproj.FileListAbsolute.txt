@@ -1,0 +1,7 @@
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\bin\CBuddy.dll
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\bin\CBuddy.pdb
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\bin\EntityFramework.dll
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\bin\EntityFramework.xml
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\obj\Debug\CBuddy.dll
+C:\Users\scott\projects\cbuddy\CBuddy\CBuddy\obj\Debug\CBuddy.pdb
